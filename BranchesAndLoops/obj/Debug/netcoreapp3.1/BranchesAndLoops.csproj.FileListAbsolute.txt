@@ -1,0 +1,11 @@
+C:\Users\ashfarooque\Desktop\CS\C#\BranchesAndLoops\bin\Debug\netcoreapp3.1\BranchesAndLoops.exe
+C:\Users\ashfarooque\Desktop\CS\C#\BranchesAndLoops\bin\Debug\netcoreapp3.1\BranchesAndLoops.deps.json
+C:\Users\ashfarooque\Desktop\CS\C#\BranchesAndLoops\bin\Debug\netcoreapp3.1\BranchesAndLoops.runtimeconfig.json
+C:\Users\ashfarooque\Desktop\CS\C#\BranchesAndLoops\bin\Debug\netcoreapp3.1\BranchesAndLoops.runtimeconfig.dev.json
+C:\Users\ashfarooque\Desktop\CS\C#\BranchesAndLoops\bin\Debug\netcoreapp3.1\BranchesAndLoops.dll
+C:\Users\ashfarooque\Desktop\CS\C#\BranchesAndLoops\bin\Debug\netcoreapp3.1\BranchesAndLoops.pdb
+C:\Users\ashfarooque\Desktop\CS\C#\BranchesAndLoops\obj\Debug\netcoreapp3.1\BranchesAndLoops.csprojAssemblyReference.cache
+C:\Users\ashfarooque\Desktop\CS\C#\BranchesAndLoops\obj\Debug\netcoreapp3.1\BranchesAndLoops.AssemblyInfoInputs.cache
+C:\Users\ashfarooque\Desktop\CS\C#\BranchesAndLoops\obj\Debug\netcoreapp3.1\BranchesAndLoops.AssemblyInfo.cs
+C:\Users\ashfarooque\Desktop\CS\C#\BranchesAndLoops\obj\Debug\netcoreapp3.1\BranchesAndLoops.dll
+C:\Users\ashfarooque\Desktop\CS\C#\BranchesAndLoops\obj\Debug\netcoreapp3.1\BranchesAndLoops.pdb
